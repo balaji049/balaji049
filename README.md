@@ -95,15 +95,24 @@ Focused on DSA, backend and machine learning
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql" /><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,azure" />
+### 💬 Languages  
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,c" />
+
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
+
+### ⚙️ Backend & Database  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,django,flask" />
+
+### 🤖 AI & Data Science  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" />
+
+### ☁️ Cloud & Tools  
+<img src="https://skillicons.dev/icons?i=gcp,azure,vercel,git,github,postman" />
 
 </div>
 
