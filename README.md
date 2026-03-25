@@ -32,18 +32,26 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-I am Balaji, a B.Tech AIML student focused on building real systems using AI and backend development.
+Name     : Balaji Bhairwad  
+Degree   : B.Tech AIML  
+College  : Malla Reddy University  
 
-I prefer working on problems that involve real data, real users, and complete system design rather than isolated code.
+Currently:
+- Building AI-powered real-world applications  
+- Practicing DSA regularly in C++  
+- Learning system design and backend scalability  
 
-Currently I am:
-- building AI powered applications  
-- practicing data structures and problem solving  
-- learning backend architecture and scalability  
+Ask me about:
+- Full Stack Development  
+- Machine Learning and AI  
+- Data Structures and Algorithms  
+
+Fun Fact : I prefer building real systems  
+           instead of just writing code  
 
 <br clear="right"/>
 
