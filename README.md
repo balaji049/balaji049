@@ -36,22 +36,24 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-Name     : Balaji Bhairwad  
-Degree   : B.Tech AIML  
-College  : Malla Reddy University  
+```yaml
+Name     : Balaji Bhairwad
+Degree   : B.Tech AIML
+College  : Malla Reddy University
 
 Currently:
-- Building AI-powered real-world applications  
-- Practicing DSA regularly in C++  
-- Learning system design and backend scalability  
+  - Building AI-powered real-world applications
+  - Practicing DSA problems daily in C++
+  - Learning System Design & Scalable Architecture
 
 Ask me about:
-- Full Stack Development  
-- Machine Learning and AI  
-- Data Structures and Algorithms  
+  - Full Stack Development
+  - Machine Learning & AI
+  - Data Structures & Algorithms
 
-Fun Fact : I prefer building real systems  
-           instead of just writing code  
+Fun Fact : I went from "just getting placed"
+           to "building things that matter" 🔥
+```
 
 <br clear="right"/>
 
@@ -81,25 +83,102 @@ Focused on DSA, backend and machine learning
 
 ---
 
-## Projects
+## 🌟 Projects
 
-- EduQuery  
-  Document grounded AI system with secure architecture  
+<div align="center">
 
-- EduSync  
-  Real time learning platform with chat and AI  
+<table>
+<tr>
+<td width="45%">
 
-- NYAY  
-  AI legal assistant with conversation memory  
+### ⚖️ NYAY  
+AI legal assistant with conversation memory  
+Handles contextual legal queries  
 
-- EV Detection  
-  Machine learning on 2.8 million real records  
+<br/>
 
-- Voice Assistant  
-  Speech to text to AI to speech pipeline  
+<a href="https://nyay-ai-legal-advisor.onrender.com">
+  <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
+</a>
 
-- Placement Tracker  
-  Dashboard for managing applications  
+</td>
+
+<td width="45%">
+
+### 🎓 EduQuery  
+Document grounded AI system  
+Delivers reliable answers from data  
+
+<br/>
+
+<a href="https://eduquery-frontend.onrender.com">
+  <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="45%">
+
+### 🌐 EduSync  
+Real time learning platform  
+Chat, collaboration and AI combined  
+
+<br/>
+
+<a href="https://edusync-client.onrender.com">
+  <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="45%">
+
+### 🚗 EV Detection  
+ML on 2.8M real government records  
+Analyzes EV adoption trends  
+
+<br/>
+
+<a href="https://ev-detection-system-dneb.onrender.com/ui">
+  <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="45%">
+
+### 🎙️ Voice Assistant  
+Speech to text to AI to speech system  
+Runs directly in browser  
+
+<br/>
+
+<a href="https://voice-assistant-pwa.onrender.com">
+  <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="45%">
+
+### 📊 Placement Tracker  
+Application tracking dashboard  
+Helps manage placement journey  
+
+<br/>
+
+<!-- Add link later if deployed -->
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
@@ -143,8 +222,13 @@ Focused on DSA, backend and machine learning
 
 ---
 
+## 💡 How I Work
 
-## How I Work
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=6366F1&center=true&width=500&lines=Build+real+systems;Keep+things+simple;Focus+on+clarity;Learn+by+building;Stay+consistent"/>
+
+</div>
 
 - build real systems  
 - keep things simple  
@@ -154,11 +238,23 @@ Focused on DSA, backend and machine learning
 
 ---
 
-## Connect
+## 📫 Connect
 
-- LinkedIn: https://linkedin.com/in/balaji-bhairwad  
-- Email: 24j45a6617@mallareddyuniversity.ac.in  
-- LeetCode: https://leetcode.com/u/BALAJI-019/  
+<div align="center">
+
+<a href="https://linkedin.com/in/balaji-bhairwad">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:24j45a6617@mallareddyuniversity.ac.in">
+  <img src="https://img.shields.io/badge/Gmail-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/BALAJI-019/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
