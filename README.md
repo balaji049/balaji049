@@ -65,9 +65,10 @@ Fun Fact : I went from "just getting placed"
 <tr>
 <td>
 
-### Open Source  
-Contributor to OWASP Juice Shop  
-Worked on security related improvements  
+### 💻 Open Source Practice  
+Worked on OWASP Juice Shop repository  
+Explored real-world security issues and contributed solutions  
+Received feedback on pull requests and improved code quality  
 
 </td>
 
