@@ -39,7 +39,7 @@
 ```yaml
 Name     : Balaji Bhairwad
 Degree   : B.Tech AIML
-College  : Malla Reddy University
+College  : Malla Reddy Engineering College, Hyderabad
 
 Currently:
   - Building AI-powered real-world applications
